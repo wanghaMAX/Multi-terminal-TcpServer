@@ -14,6 +14,6 @@
 
 #### As you can see, here is the widget :
 
-![widget](/home/wangha/文档/git/Multi-terminal-TcpServer/photo/multi.png)
+![widget](./photo/multi.png)
 
 #### Thanks for reading. 
